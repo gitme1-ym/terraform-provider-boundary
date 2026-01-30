@@ -235,3 +235,4 @@ resource "boundary_target" "backend_servers_ssh" {
   ]
 }
 ```
+https://dd904219-f919-4611-9927-904068511057.boundary.hashicorp.cloud
